@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio-SPA/static/css/main.f05a1c0c.chunk.css",
+    "main.js": "/Portfolio-SPA/static/js/main.c861a78c.chunk.js",
+    "main.js.map": "/Portfolio-SPA/static/js/main.c861a78c.chunk.js.map",
+    "runtime-main.js": "/Portfolio-SPA/static/js/runtime-main.44e817c7.js",
+    "runtime-main.js.map": "/Portfolio-SPA/static/js/runtime-main.44e817c7.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Portfolio-SPA/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.5161d758.chunk.js": "/Portfolio-SPA/static/js/2.5161d758.chunk.js",
+    "static/js/2.5161d758.chunk.js.map": "/Portfolio-SPA/static/js/2.5161d758.chunk.js.map",
+    "index.html": "/Portfolio-SPA/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Portfolio-SPA/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.f05a1c0c.chunk.css.map": "/Portfolio-SPA/static/css/main.f05a1c0c.chunk.css.map",
+    "static/js/2.5161d758.chunk.js.LICENSE.txt": "/Portfolio-SPA/static/js/2.5161d758.chunk.js.LICENSE.txt",
+    "static/media/SV-Photo.e4c5098b.jpg": "/Portfolio-SPA/static/media/SV-Photo.e4c5098b.jpg",
+    "static/media/Scott_Vidler_Resume.413c732f.pdf": "/Portfolio-SPA/static/media/Scott_Vidler_Resume.413c732f.pdf",
+    "static/media/index.css": "/Portfolio-SPA/static/media/schedule.1b418407.jpg",
+    "static/media/ocean.1b06e5d2.jpg": "/Portfolio-SPA/static/media/ocean.1b06e5d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44e817c7.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.5161d758.chunk.js",
+    "static/css/main.f05a1c0c.chunk.css",
+    "static/js/main.c861a78c.chunk.js"
+  ]
+}
