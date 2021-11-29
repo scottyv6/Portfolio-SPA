@@ -23,7 +23,7 @@ export default function NavBar() {
         }
     ];
     return (
-        <nav>
+        <nav >
             <h1>Scott Vidler</h1>
 
             <ul>

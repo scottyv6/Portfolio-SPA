@@ -1,0 +1,59 @@
+.footer{
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: var(--green);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.footer ul {
+    list-style-type: none;
+    text-align: center;
+
+}
+
+.footer ul li {
+    display: inline-block;
+    margin-left: 25px;
+    
+}
+
+.footerList{
+    display: flex;
+    justify-content: center;
+    background-color: var(--green);
+    font-size: 25px;
+    list-style-type: none;
+}
+
+.footerList li a{
+    background-color: var(--green);
+    list-style-type: none;
+}
+
+.footerList li {
+    background-color: var(--green);
+    list-style-type: none;
+}
+
+.footerList #linkedIn a:visited {
+    color: blue;
+}
+
+.footerList #linkedIn a:link {
+    color: blue;
+}
+
+.footerList #GitHub a:visited {
+    color: gray;
+}
+
+.footerList #GitHub a:link {
+    color: gray;
+}
+
+.footerlink {
+    display: inline !important;
+}
